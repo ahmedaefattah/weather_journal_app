@@ -21,3 +21,6 @@ This will require modifying the `server.js` file and the `website/app.js` file. 
 ## API Credentials
  
   * Create API credentials on [OpenWeatherMap](https://openweathermap.org/)
+
+  ![screenShot](https://github.com/ahmedaefattah/weather_journal_app/blob/master/weather_journal_app.png)
+  
