@@ -24,4 +24,8 @@ This will require modifying the `server.js` file and the `website/app.js` file. 
 
 ## Screenshot
 
-  ![screenShot](https://github.com/ahmedaefattah/weather_journal_app/blob/master/weather_journal_app.png)
+  ![screenShot](https://github.com/ahmedaefattah/weather_journal_app/blob/master/website/screenshot/screenshot.png)
+
+## Live Demo
+
+* [Weather Journal App Project](https://weather-journal-app-22092020.herokuapp.com/)
