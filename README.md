@@ -28,4 +28,4 @@ This will require modifying the `server.js` file and the `website/app.js` file. 
 
 ## Live Demo
 
-* [Weather Journal App Project](https://weather-journal-app-22092020.herokuapp.com/)
+* [Weather Journal App Project](https://weather-journal-app-ahmedaefattah.netlify.app/)
