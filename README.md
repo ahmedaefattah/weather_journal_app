@@ -24,7 +24,7 @@ This will require modifying the `server.js` file and the `website/app.js` file. 
 
 ## Screenshot
 
-  ![screenShot](https://github.com/ahmedaefattah/weather_journal_app/blob/master/website/screenshot/screenshot.png)
+  ![screenShot](https://github.com/ahmedaefattah/weather_journal_app/blob/main/website/screenshots/screenshot.png)
 
 ## Live Demo
 
